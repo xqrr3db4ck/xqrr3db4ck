@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">A lazy developer of automations scripts and cybersecurity tools</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xqrr3db4ck&label=Profile%20views&color=0e75b6&style=flat" alt="xqrr3db4ck" /> </p>
-
 - 🔭 I’m currently working on **Automation scripts with Python and powershell**
 
 - 🌱 I’m currently learning **Python, bash and powershell languages**
