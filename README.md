@@ -2,9 +2,9 @@
 <h3 align="center">A lazy developer of automations scripts and cybersecurity tools</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/xqrr3db4ck/xqrr3db4ck/blob/main/coding.gif">
 
-- 🌟 I’m currently working on **Automation scripts with Python and powershell**
+- ❄️ I’m currently working on **Automation scripts with Python and powershell**
 
-- ⚛️ I’m currently learning **Python, bash and powershell languages**
+- 💿 I’m currently learning **Python, bash and powershell languages**
 
 - ⚡ Fun fact **I automate things because I am so lazy.**
 
