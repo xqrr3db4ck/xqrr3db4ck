@@ -1,7 +1,7 @@
 ![logo](https://github.com/xqrr3db4ck/xqrr3db4ck/blob/main/R.gif)
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">A lazy developer of automations scripts and cybersecurity tools</h3>
-<img align="right" alt="Coding" width="500" src="https://giffiles.alphacoders.com/174/1744.gif">
+<img align="right" alt="Coding" width="500" src="[https://giffiles.alphacoders.com/174/1744.gif](https://github.com/xqrr3db4ck/xqrr3db4ck/blob/main/R.gif)">
 
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">A lazy developer of automations scripts and cybersecurity tools</h3>
