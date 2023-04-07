@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">A lazy developer of automations scripts and cybersecurity tools</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giffiles.alphacoders.com/174/1744.gif)">
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/174/1744.gif">
 
 - 🔭 I’m currently working on **Automation scripts with Python and powershell**
 
