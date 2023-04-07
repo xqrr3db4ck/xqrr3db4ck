@@ -4,7 +4,7 @@
 
 - 🌟 I’m currently working on **Automation scripts with Python and powershell**
 
-- 🌱 I’m currently learning **Python, bash and powershell languages**
+- ⚛️ I’m currently learning **Python, bash and powershell languages**
 
 - ⚡ Fun fact **I automate things because I am so lazy.**
 
