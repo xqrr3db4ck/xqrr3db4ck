@@ -2,12 +2,6 @@
 <h3 align="center">A lazy developer of automations scripts and cybersecurity tools</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/174/1744.gif">
 
-- 🔭 I’m currently working on **Automation scripts with Python and powershell**
-
-- 🌱 I’m currently learning **Python, bash and powershell languages**
-
-- ⚡ Fun fact **I automate things because I am so lazy.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
