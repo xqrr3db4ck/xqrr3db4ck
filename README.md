@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julian</h1>
+<h1 align="center">Hi ❄️, I'm Julian</h1>
 <h3 align="center">A lazy developer of automations scripts and cybersecurity tools</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/xqrr3db4ck/xqrr3db4ck/blob/main/coding.gif">
 
