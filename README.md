@@ -20,6 +20,7 @@
 
 - Python
 - Bash
+- C 
 - Ruby
 - Powershell
 
